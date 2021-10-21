@@ -23,4 +23,10 @@ This repo contains all my work in [LeetCode Algorithm 1 Study Plan](https://leet
 - [876. Middle of the Linked List](Day%205/10_Middle_of_linked_list.cpp)
 - [19. Remove Nth Node From End of List](Day%205/11_Remove_Nth_Node_from_Linked_list.cpp)
 
+### Day 6
+- [3. Longest Substring Without Repeating Characters](Day%206/3_Longest_Substring_Without_Repeating_Characters.cpp)
+- [567. Permutation in String]
+
+
+
 *By S M Jishanul Islam, 2021*
