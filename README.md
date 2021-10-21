@@ -25,7 +25,7 @@ This repo contains all my work in [LeetCode Algorithm 1 Study Plan](https://leet
 
 ### Day 6
 - [3. Longest Substring Without Repeating Characters](Day%206/3_Longest_Substring_Without_Repeating_Characters.cpp)
-- [567. Permutation in String]
+- [567. Permutation in String](Day%206/567_Permutation_in_String.cpp)
 
 
 
