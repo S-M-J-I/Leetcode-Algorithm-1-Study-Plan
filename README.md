@@ -33,5 +33,6 @@ This repo contains all my work in [LeetCode Algorithm 1 Study Plan](https://leet
 
 ### Day 8
 - [617. Merge Two Binary Trees](Day%208/617_Merge_Two_Binary_Trees.cpp)
+- [116. Populating Next Right Pointers in Each Node](Day%208/116_Populating_Next_Right_Pointers_in_Each_Node.cpp)
 
 *By S M Jishanul Islam, 2021*
