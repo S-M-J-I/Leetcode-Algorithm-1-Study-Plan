@@ -29,5 +29,6 @@ This repo contains all my work in [LeetCode Algorithm 1 Study Plan](https://leet
 
 ### Day 7
 - [733. Flood Fill](Day%207/733_Flood_Fill.cpp)
+- [695. Max Area of Island](Day%207/695_Max_Area_of_Island.cpp)
 
 *By S M Jishanul Islam, 2021*
