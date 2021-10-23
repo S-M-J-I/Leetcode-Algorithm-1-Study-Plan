@@ -31,4 +31,7 @@ This repo contains all my work in [LeetCode Algorithm 1 Study Plan](https://leet
 - [733. Flood Fill](Day%207/733_Flood_Fill.cpp)
 - [695. Max Area of Island](Day%207/695_Max_Area_of_Island.cpp)
 
+### Day 8
+- [617. Merge Two Binary Trees](Day%208/617_Merge_Two_Binary_Trees.cpp)
+
 *By S M Jishanul Islam, 2021*
